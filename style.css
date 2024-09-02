@@ -9,8 +9,10 @@ p {
     text-align: left;
     font-family: Helvetica, sans-serif;
     width: 70%;
+    padding-bottom: 20px;
 }
 
 body {
     background-color: #ffffff;
+    text-align: center;
 }
